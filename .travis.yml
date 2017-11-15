@@ -6,4 +6,4 @@ jdk:
 sudo: false
 
 script:
-    - ./gradle clean build
+    - ./gradlew clean build
